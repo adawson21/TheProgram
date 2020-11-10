@@ -98,4 +98,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/DOS/Diplomats/RussianDiplomat.unity
     guid: 9323692d5fd05fd4a9382060e46df219
+  - enabled: 1
+    path: Assets/Scenes/Imposter/ChooseTheImposter.unity
+    guid: 4f418f9c362f8ae47a08168f7361e7e4
+  - enabled: 1
+    path: Assets/Scenes/Imposter/YouWin.unity
+    guid: 57747b4f993d2e6488a88e47404fb648
+  - enabled: 1
+    path: Assets/Scenes/Imposter/YouLose.unity
+    guid: 82df4ddd855583542978c1ce120372fc
   m_configObjects: {}

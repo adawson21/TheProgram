@@ -328,7 +328,7 @@ GameObject:
   - component: {fileID: 480892643}
   - component: {fileID: 480892642}
   m_Layer: 5
-  m_Name: Image
+  m_Name: img_Diplomats
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

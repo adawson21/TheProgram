@@ -276,7 +276,7 @@ GameObject:
   - component: {fileID: 624043087}
   - component: {fileID: 624043086}
   m_Layer: 5
-  m_Name: Image
+  m_Name: img_SecurityBreach
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
