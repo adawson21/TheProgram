@@ -157,7 +157,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -149.5, y: -2.5}
+  m_AnchoredPosition: {x: 0, y: -97}
   m_SizeDelta: {x: 160, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &408642157
@@ -446,8 +446,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 2.9, y: -8.6}
-  m_SizeDelta: {x: 165.7514, y: 47.25914}
+  m_AnchoredPosition: {x: -0.0000019073, y: 59.864}
+  m_SizeDelta: {x: 317.46545, y: 119.72844}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1206689458
 MonoBehaviour:
@@ -481,7 +481,9 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: WELCOME TO THE FIRST SCENE
+  m_Text: "On May 30th, a mole in the United States revealed  foreign intelligence
+    the location of all American nuclear warheads.   \r\n\r\nThere are three suspects
+    that have internal access to these locations and we need you to find the mole."
 --- !u!222 &1206689459
 CanvasRenderer:
   m_ObjectHideFlags: 0
