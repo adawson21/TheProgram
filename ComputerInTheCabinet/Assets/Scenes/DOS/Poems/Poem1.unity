@@ -133,7 +133,7 @@ GameObject:
   - component: {fileID: 383475320}
   - component: {fileID: 383475319}
   m_Layer: 5
-  m_Name: Image
+  m_Name: img_Poem1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

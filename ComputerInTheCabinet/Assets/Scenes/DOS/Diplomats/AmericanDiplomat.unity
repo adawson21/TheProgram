@@ -233,7 +233,7 @@ GameObject:
   - component: {fileID: 344904886}
   - component: {fileID: 344904885}
   m_Layer: 5
-  m_Name: Image
+  m_Name: img_American
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

@@ -134,4 +134,18 @@ public class SceneSwitcher : MonoBehaviour
     {
         SceneManager.LoadScene("RussianDiplomat");
     }
+
+
+    public void GoToChooseTheImposter()
+    {
+        SceneManager.LoadScene("ChooseTheImposter");
+    }
+    public void GoToYouWin()
+    {
+        SceneManager.LoadScene("YouWin");
+    }
+    public void GoToYouLose()
+    {
+        SceneManager.LoadScene("YouLose");
+    }
 }
