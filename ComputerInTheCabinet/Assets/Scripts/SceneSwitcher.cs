@@ -12,4 +12,9 @@ public class SceneSwitcher : MonoBehaviour
     {
         SceneManager.LoadScene("SceneOne");
     }
+
+    public void GoToSecondScene()
+    {
+        SceneManager.LoadScene("SceneTwo");
+    }
 }
