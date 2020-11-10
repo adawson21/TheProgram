@@ -42,6 +42,8 @@ public class SceneSwitcher : MonoBehaviour
         SceneManager.LoadScene("SecretDefensePlans");
     }
     // alonso was here
+
+
     public void GoToSecEnergyDesktop()
     {
         SceneManager.LoadScene("SecEnergyDesktop");
@@ -85,5 +87,51 @@ public class SceneSwitcher : MonoBehaviour
     public void GoToSecurityBreach()
     {
         SceneManager.LoadScene("SecurityBreach");
+    }
+
+
+    public void GoToSecStateDesktop()
+    {
+        SceneManager.LoadScene("SecStateDesktop");
+    }
+    public void GoToTheRona()
+    {
+        SceneManager.LoadScene("TheRona");
+    }
+    public void GoToRussianResearch()
+    {
+        SceneManager.LoadScene("RussianResearch");
+    }
+    public void GoToPoems()
+    {
+        SceneManager.LoadScene("Poems");
+    }
+    public void GoToPoem1()
+    {
+        SceneManager.LoadScene("Poem1");
+    }
+    public void GoToForeignIssues()
+    {
+        SceneManager.LoadScene("ForeignIssues");
+    }
+    public void GoToEmailToPresident()
+    {
+        SceneManager.LoadScene("EmailToPresident");
+    }
+    public void GoToDiplomats()
+    {
+        SceneManager.LoadScene("Diplomats");
+    }
+    public void GoToAmericanDiplomat()
+    {
+        SceneManager.LoadScene("AmericanDiplomat");
+    }
+    public void GoToEnglishDiplomat()
+    {
+        SceneManager.LoadScene("EnglishDiplomat");
+    }
+    public void GoToRussianDiplomat()
+    {
+        SceneManager.LoadScene("RussianDiplomat");
     }
 }
