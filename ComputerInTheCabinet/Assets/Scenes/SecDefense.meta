@@ -1,7 +1,12 @@
 fileFormatVersion: 2
+<<<<<<< HEAD:ComputerInTheCabinet/Assets/SFX/Read (2).txt.meta
+guid: a73d0d665595f8e4f8f599c1d311496b
+TextScriptImporter:
+=======
 guid: e3e9db4a432e6cf46a07b2c90fa4e4f7
 folderAsset: yes
 DefaultImporter:
+>>>>>>> 3b8282f5ea859afa9e7d5ff6e1ea04bb033d66c7:ComputerInTheCabinet/Assets/Scenes/SecDefense.meta
   externalObjects: {}
   userData: 
   assetBundleName: 
