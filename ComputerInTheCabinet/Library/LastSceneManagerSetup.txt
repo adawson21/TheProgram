@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/DOD/SecDefDesktop.unity
+- path: Assets/Scenes/DOE/Misc/GBUsage.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
