@@ -115,7 +115,7 @@ MonoBehaviour:
   m_MinSize: {x: 678, y: 492}
   m_MaxSize: {x: 14002, y: 14042}
   vertical: 0
-  controlID: 4052
+  controlID: 2305
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -140,7 +140,7 @@ MonoBehaviour:
   m_MinSize: {x: 402, y: 492}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
-  controlID: 4053
+  controlID: 2306
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -165,7 +165,7 @@ MonoBehaviour:
   m_MinSize: {x: 402, y: 221}
   m_MaxSize: {x: 8002, y: 4021}
   vertical: 0
-  controlID: 4054
+  controlID: 2307
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -418,9 +418,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
+      m_SelectedIDs: 8c6b0000
       m_LastClickedID: 0
-      m_ExpandedIDs: eae7ffff42e9ffffe8e9ffffdceaffffe6eafffff0eafffffaeaffff04ebffff16ebffff24ecffff7cedffff78eeffff6eefffffbef0ffff6af2ffff56f3fffffaf3ffffaef4ffff8cf5ffff5af6ffff4ef7fffffcf7ffffdcf9ffffe2faffffecfaffff66fbffffbe390000063a0000b63b00003048000082480000e048000060490000cc4900005c4a0000da4a00005a4b0000825e00000a5f000062720000a47400000e7500009a75000006760000
+      m_ExpandedIDs: b8e9ffffc2e9ffffc2edffffe2eeffffeceeffffc0efffffb4f0ffffc2f0ffffaaf1ffffeef2fffff8f2ffff10f4ffff26f5ffff24f7ffff62f9ffff90f9ffff96f9ffffc6faffff40fbffffe847000084480000fc6a0000186c0000d46c0000426d0000d26d0000166e0000946e0000aa7b0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -598,20 +598,20 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scenes/DOS/Diplomats
+    - Assets/Scenes/Imposter
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Scenes/DOS/Diplomats
+  - Assets/Scenes/Imposter
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\Krys\Desktop\TheProgram\ComputerInTheCabinet
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 53}
-    m_SelectedIDs: 083b0000
-    m_LastClickedID: 15112
-    m_ExpandedIDs: 0000000072390000783900008a39000000ca9a3b
+    m_SelectedIDs: a6390000
+    m_LastClickedID: 14758
+    m_ExpandedIDs: 00000000943900009a39000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -639,7 +639,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000007239000000ca9a3b
+    m_ExpandedIDs: 000000009439000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -666,7 +666,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c6230000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
