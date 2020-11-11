@@ -65,4 +65,46 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/DOE/Cyber/Cyber.unity
     guid: 5169e50b8647a404083f22f54f9430f2
+  - enabled: 1
+    path: Assets/Scenes/DOS/SecStateDesktop.unity
+    guid: fdcc9e008c830d04cb7183923ae67bee
+  - enabled: 1
+    path: Assets/Scenes/DOS/TheRona/TheRona.unity
+    guid: a8861761cea2202429b120820ba59459
+  - enabled: 1
+    path: Assets/Scenes/DOS/TheRona/RussianResearch.unity
+    guid: 38d3a1d9f7fed4b4a9e1140b7d2e3af9
+  - enabled: 1
+    path: Assets/Scenes/DOS/Poems/Poems.unity
+    guid: 4419916e20e553245b897c39369abdd9
+  - enabled: 1
+    path: Assets/Scenes/DOS/Poems/Poem1.unity
+    guid: ed568f10515fa3f40a52729ea520129b
+  - enabled: 1
+    path: Assets/Scenes/DOS/ForeignIssues/ForeignIssues.unity
+    guid: 94f13caf104d4c34a83a7ecafc317774
+  - enabled: 1
+    path: Assets/Scenes/DOS/ForeignIssues/EmailToPresident.unity
+    guid: 6e4a22cce742a3242a89288e4d1f48f1
+  - enabled: 1
+    path: Assets/Scenes/DOS/Diplomats/Diplomats.unity
+    guid: 2efd0cd97f7a16c46bb83fcb5c97e632
+  - enabled: 1
+    path: Assets/Scenes/DOS/Diplomats/AmericanDiplomat.unity
+    guid: 0b6fb708aec5b7243aaea6763efe18bf
+  - enabled: 1
+    path: Assets/Scenes/DOS/Diplomats/EnglishDiplomat.unity
+    guid: 8e1d86fc2b3d3d6459ef283ef1e99658
+  - enabled: 1
+    path: Assets/Scenes/DOS/Diplomats/RussianDiplomat.unity
+    guid: 9323692d5fd05fd4a9382060e46df219
+  - enabled: 1
+    path: Assets/Scenes/Imposter/ChooseTheImposter.unity
+    guid: 4f418f9c362f8ae47a08168f7361e7e4
+  - enabled: 1
+    path: Assets/Scenes/Imposter/YouWin.unity
+    guid: 57747b4f993d2e6488a88e47404fb648
+  - enabled: 1
+    path: Assets/Scenes/Imposter/YouLose.unity
+    guid: 82df4ddd855583542978c1ce120372fc
   m_configObjects: {}
