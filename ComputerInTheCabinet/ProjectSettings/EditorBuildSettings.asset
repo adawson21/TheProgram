@@ -107,4 +107,40 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Imposter/YouLose.unity
     guid: 82df4ddd855583542978c1ce120372fc
+  - enabled: 1
+    path: Assets/Scenes/DOE/Misc/2021.unity
+    guid: 764fbd3bcc797da468c674ee7bb80982
+  - enabled: 1
+    path: Assets/Scenes/DOE/Misc/California.unity
+    guid: 5f6ff2aef9fea194aa003727e1781b85
+  - enabled: 1
+    path: Assets/Scenes/DOE/Misc/Copy.unity
+    guid: beb38b46d6ec1ff47be85ceb141162b2
+  - enabled: 1
+    path: Assets/Scenes/DOE/Cyber/CyberSecurityReports.unity
+    guid: 78276e094ae53ac4599a8b7b3a39e8f0
+  - enabled: 1
+    path: Assets/Scenes/DOE/Cyber/CyberThreatRecords.unity
+    guid: 78c56ccf655b03b45b6b17b62b904e95
+  - enabled: 1
+    path: Assets/Scenes/DOE/Misc/EnergyBills.unity
+    guid: 6285b954aec445644a1ae707e29aa5c5
+  - enabled: 1
+    path: Assets/Scenes/DOE/Misc/GBUsage.unity
+    guid: 30af38d27e05f57499acab43c34d37ee
+  - enabled: 1
+    path: Assets/Scenes/DOE/Misc/Iowa.unity
+    guid: 726e595bd331d0044a2eac187eb7160f
+  - enabled: 1
+    path: Assets/Scenes/DOE/Misc/Kansas.unity
+    guid: 18e007d98d3b0ab44bdfdab4562bc2e5
+  - enabled: 1
+    path: Assets/Scenes/DOE/Misc/MbWatts.unity
+    guid: 73d713b19dab72045ac922ac3c736af4
+  - enabled: 1
+    path: Assets/Scenes/DOE/Misc/Ohio.unity
+    guid: 09502e85f8594ad40a6462fabc63c8e1
+  - enabled: 1
+    path: Assets/Scenes/DOE/Misc/Proto.unity
+    guid: 4c21eff41a07bba449b56e472d6d292f
   m_configObjects: {}

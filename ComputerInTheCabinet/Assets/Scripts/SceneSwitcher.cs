@@ -56,6 +56,14 @@ public class SceneSwitcher : MonoBehaviour
     {
         SceneManager.LoadScene("ForeignReports");
     }
+    public void GoToCyberSecurityReports()
+    {
+        SceneManager.LoadScene("CyberSecurityReports");
+    }
+    public void GoToCyberThreatRecords()
+    {
+        SceneManager.LoadScene("CyberThreatRecords");
+    }
     public void GoToMisc()
     {
         SceneManager.LoadScene("Misc");
@@ -67,6 +75,46 @@ public class SceneSwitcher : MonoBehaviour
     public void GoToTextFiles()
     {
         SceneManager.LoadScene("TextFiles");
+    }
+    public void GoTo2021()
+    {
+        SceneManager.LoadScene("2021");
+    }
+    public void GoToCalifornia()
+    {
+        SceneManager.LoadScene("California");
+    }
+    public void GoToCopy()
+    {
+        SceneManager.LoadScene("Copy");
+    }
+    public void GoToEnergyBills()
+    {
+        SceneManager.LoadScene("EnergyBills");
+    }
+    public void GoToGBUsage()
+    {
+        SceneManager.LoadScene("GBUsage");
+    }
+    public void GoToIowa()
+    {
+        SceneManager.LoadScene("Iowa");
+    }
+    public void GoToKansas()
+    {
+        SceneManager.LoadScene("Kansas");
+    }
+    public void GoToMbWatts()
+    {
+        SceneManager.LoadScene("MbWatts");
+    }
+    public void GoToOhio()
+    {
+        SceneManager.LoadScene("Ohio");
+    }
+    public void GoToProto()
+    {
+        SceneManager.LoadScene("Proto");
     }
     public void GoToEnergyEff()
     {
