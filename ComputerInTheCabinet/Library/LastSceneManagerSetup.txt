@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/DOE/Misc/GBUsage.unity
+- path: Assets/Scenes/DOS/Diplomats/RussianDiplomat.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
